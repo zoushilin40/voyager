@@ -9,3 +9,4 @@ active: comic
 ---
 #漫画1
 
+![]({{ baseurl }}/media/illustration/皇室战争1.jpg)
