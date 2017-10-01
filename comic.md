@@ -14,5 +14,7 @@ active: comic
 
 <img src="{{baseurl}}/media/images/头像.jpg"> 
 
+<img src="{{baseurl}}/media/images/illustration/皇室战争1.jpg"> 
+
 
 [![railroad]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/rails.jpg)
