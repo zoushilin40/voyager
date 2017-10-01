@@ -12,5 +12,7 @@ active: comic
 
 [![皇室战争]({{ site.images | relative_url }}/皇室战争1.jpg)]({{ site.images | relative_url }}/皇室战争1.jpg)
 
+<img src="{{baseurl}}/media/images/头像.jpg"> 
+
 
 [![railroad]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/rails.jpg)
