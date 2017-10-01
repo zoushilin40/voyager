@@ -15,4 +15,11 @@ active: comic
 <img src="{{baseurl}}/media/images/illustration/皇室战争1.jpg"> 
 
 
+<html>
+<body>
+<p><a href = "http://www.zcool.com.cn/u/734636"><img border= "0" src ="media/images/illustration/皇室战争1.jpg" /></a></p>
+</body>
+</html>
+
+
 [![railroad]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/rails.jpg)
