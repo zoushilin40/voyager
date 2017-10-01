@@ -9,7 +9,8 @@ active: comic
 ---
 #漫画1
 
-![]({{ baseurl }}/media/illustration/皇室战争1.jpg)
+
+[![railroad]({{ site.images | relative_url }}/皇室战争1.jpg)]({{ site.images | relative_url }}/皇室战争1.jpg)
 
 
 [![railroad]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/rails.jpg)
