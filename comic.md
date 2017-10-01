@@ -10,8 +10,6 @@ active: comic
 #漫画1
 
 
-<img src="{{baseurl}}/media/images/头像.jpg"> 
-
 <img src="{{baseurl}}/media/images/illustration/皇室战争1.jpg"> 
 
 
