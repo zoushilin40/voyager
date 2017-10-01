@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "点我！"
+title:  "关于我"
 crawlertitle: "How to use jekyll"
 crawlertitle: "ZOU4_0 Blog"
 summary: "自我介绍"
