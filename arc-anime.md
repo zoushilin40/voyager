@@ -10,14 +10,11 @@ active: animation studio
 ---
 
 
+## 弧光
 
-弧光
+## 动画测试
 
-动画测试
-<<<<<<< HEAD
-=======
 
->>>>>>> 1b8b85a035935563391d0dfe9f57703b1de796eb
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=2397062&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 
 
