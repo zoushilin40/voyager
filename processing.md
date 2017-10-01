@@ -19,7 +19,7 @@ active: processing
 最初搭建这个博客，是为了能与其他人分享processing的练习作品，从而促进自己更多创作的动力。同时也记录一些工作生活中所思所想的，在自己的地盘碎碎念。
 
 
-<iframe src="https://www.openprocessing.org/sketch/394525/embed/" width="400" height="400"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/394525/embed/" width="500" height="400"></iframe>
 
 <iframe src="https://www.openprocessing.org/sketch/449351/embed/" width="500" height="500"></iframe>
 
