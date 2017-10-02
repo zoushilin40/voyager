@@ -2,7 +2,7 @@
 bg: "京剧集体照.jpg"
 layout: page
 title: "插画/illustration"
-crawlertitle: "arc-anime"
+crawlertitle: "插画/illustration"
 permalink: /about2/
 summary: "插画/概念设计"
 active: illustration
