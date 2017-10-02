@@ -46,7 +46,8 @@ active: animation
 
 继续说说我的经历，我开始全面接触动画制作是从大三开始的，我与室友两人计划合作一部动画短片，目的是熟悉动画制作流程，为之后的毕设做准备。
 
-于是做了人生第一部短片动画：《坑》http://www.zcool.com.cn/work/ZMzU4MzgzNg==.html
+于是做了人生第一部短片动画：
+《坑》http://www.zcool.com.cn/work/ZMzU4MzgzNg==.html
 
 
 ##摸索出自己的风格
