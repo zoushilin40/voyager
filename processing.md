@@ -37,4 +37,4 @@ active: processing
 
 ##
 
-<iframe src="http://alpha.editor.p5js.org/embed/By6_tcJob"></iframe>
+<iframe src="http://alpha.editor.p5js.org/embed/By6_tcJob" width="500" height="475"></iframe>
