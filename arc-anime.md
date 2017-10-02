@@ -1,11 +1,11 @@
 ---
-bg: "owl.jpg"
+bg: "京剧集体照.jpg"
 layout: page
-title: "弧光Anime工作室"
+title: "插画/illustration"
 crawlertitle: "arc-anime"
 permalink: /about2/
-summary: "做有品位有追求的原创动画"
-active: animation studio
+summary: "插画/概念设计"
+active: illustration
 
 ---
 
