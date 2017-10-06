@@ -14,7 +14,7 @@ active: processing
 
 ## 创意编程的学习目的
 
-想把插画和编程结合，做一些有创意的作品。个人也想往动画和编程结合的方向发展。
+想把插画和编程结合，做一些有创意的作品。个人也想往动画和编程结合的方向发展。个人下一步会结合一些小GIF做一些实验。
 
 ## 画板 
 
@@ -40,7 +40,3 @@ active: processing
 <iframe src="http://alpha.editor.p5js.org/zoushilin40/sketches/By6_tcJob" width="500" height="475"></iframe>
 
 
-<iframe src="https://alpha.editor.p5js.org/embed/HkVTEM0jZ" width="500" height="475"></iframe>
-
-
-<iframe src="http://alpha.editor.p5js.org/embed/ryfANMAob"></iframe>
