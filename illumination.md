@@ -9,22 +9,8 @@ active: illustration
 
 ---
 
-
-## 弧光
-
-## 动画测试
+## 皇室战争
+<img src="{{baseurl}}/media/images/illustration/皇室战争1.jpg"> 
 
 
-
-[早！]（https://www.bilibili.com/video/av2397062/）
-
-
-<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8506694&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
-
-<video width="480" height="320" controls>
-<source src="https://www.bilibili.com/video/av2397062/">
-</video>
-
-
-<embed src="https://www.bilibili.com/video/av2397062/" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
-
+[![皇室战争]({{ site.images | relative_url }}/皇室战争1.jpg)]({{ site.images | relative_url }}/皇室战争1.jpg)
