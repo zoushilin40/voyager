@@ -14,8 +14,8 @@ active: illustration
 <img src="{{baseurl}}/media/images/illustration/皇室战争1.jpg" width="500"> 
 
 ## 京剧城
-<img src="{{baseurl}}/media/images/illustration/京剧城 .jpg" width="500"> 
+<img src="{{baseurl}}/media/images/illustration/京剧城.jpg" width="500"> 
 
 ## 京械
 
-<img src="{{baseurl}}/media/images/illustration/京械 .jpg" width="500"> 
+<img src="{{baseurl}}/media/images/illustration/京械.jpg" width="500"> 
