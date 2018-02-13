@@ -10,8 +10,8 @@ tags: 'jekyll'
 author: redVi
 ---
 
-#### *我的介绍
+
+<img src="{{baseurl}}/media/images/illustration/40.jpg" width="400"> 
 
 
-
-
+####微博：ZOU40

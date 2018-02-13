@@ -1,7 +1,7 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "编程学习/CODING"
+title: "交互编程/CODING"
 permalink: /posts/
 crawlertitle: "编程coding"
 summary: "创意编程的尝试"
