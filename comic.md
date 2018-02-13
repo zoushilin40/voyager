@@ -10,4 +10,4 @@ active: comic
 
 ### *我的绘画总结
 
-<img src="{{baseurl}}/media/images/illustration/我的总结.jpg" width="500"> 
+<img src="{{baseurl}}/media/images/illustration/我的总结.jpg" width="400"> 

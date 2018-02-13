@@ -13,8 +13,15 @@ active: animation
 ### *我的动画
 
 《早！》http://www.bilibili.com/video/av5679901/
-《Yue》http://www.zcool.com.cn/work/ZMTIzOTk5MjQ=.html
+<img src="{{baseurl}}/media/images/illustration/早.jpg" width="400"> 
 
+
+《Yue》http://www.zcool.com.cn/work/ZMTIzOTk5MjQ=.html
+<img src="{{baseurl}}/media/images/illustration/yue.jpg" width="400"> 
+
+
+《坑》http://www.zcool.com.cn/work/ZMzU4MzgzNg==.html
+<img src="{{baseurl}}/media/images/illustration/坑.jpg" width="400"> 
 
 
 
