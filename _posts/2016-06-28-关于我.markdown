@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于我"
+title:  "-40studio-"
 crawlertitle: "How to use jekyll"
 crawlertitle: "ZOU4_0 Blog"
 summary: "自我介绍"
@@ -14,4 +14,4 @@ author: redVi
 <img src="{{baseurl}}/media/images/illustration/40.jpg" width="400"> 
 
 
-####微博：ZOU40
+####  微博：ZOU40
