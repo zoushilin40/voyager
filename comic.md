@@ -10,14 +10,14 @@ active: comic
 
 ### *吸猫之谜
 
-<img src="{{baseurl}}/media/images/illustration/1.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/2.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/3.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/4.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/5.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/6.jpg" width="300"> 
-<img src="{{baseurl}}/media/images/illustration/7.jpg" width="300"> 
+<img src="{{baseurl}}/media/images/illustration/1.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/2.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/3.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/4.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/5.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/6.jpg" width="400"> 
+<img src="{{baseurl}}/media/images/illustration/7.jpg" width="400"> 
 
 ### *我的绘画总结
 
-<img src="{{baseurl}}/media/images/illustration/我的总结.jpg" width="300"> 
+<img src="{{baseurl}}/media/images/illustration/我的总结.jpg" width="400"> 
