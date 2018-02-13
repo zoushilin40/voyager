@@ -10,15 +10,8 @@ tags: 'jekyll'
 author: redVi
 ---
 
-我的介绍
-
-<iframe src="https://www.openprocessing.org/sketch/419845/embed/" width="500" height="505"></iframe>
+### *我的介绍
 
 
 
 
-[微博][jekyll-gh].
-
-[微博]: http://weibo.com/2018989244/profile?topnav=1&wvr=6
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
