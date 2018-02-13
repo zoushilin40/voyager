@@ -8,6 +8,6 @@ summary: "日常漫画／我和轩"
 active: comic
 ---
 
-##404
+### *我的绘画总结
 
-
+<img src="{{baseurl}}/media/images/illustration/我的总结.jpg" width="500"> 
