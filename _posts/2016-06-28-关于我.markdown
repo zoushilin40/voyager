@@ -4,7 +4,7 @@ title:  "-40studio-"
 crawlertitle: "How to use jekyll"
 crawlertitle: "ZOU4_0 Blog"
 summary: "自我介绍"
-date:   2016-06-28 23:09:47 +0700
+date:   2018-02-01 23:09:47 +0700
 categories: posts
 tags: 'jekyll'
 author: redVi
