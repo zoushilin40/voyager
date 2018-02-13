@@ -10,7 +10,7 @@ active: animation
 ---
 
 
-### *我的动画
+### *动画作品
 
 《早！》http://www.bilibili.com/video/av5679901/
 <img src="{{baseurl}}/media/images/illustration/早.jpg" width="400"> 
