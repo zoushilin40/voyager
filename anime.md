@@ -1,7 +1,7 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "动画/ANIMEATION"
+title: "动画/ANIMATION"
 crawlertitle: "动画animation"
 permalink: /about1/
 summary: "我的动画练习"
